@@ -51,5 +51,6 @@ int main(){
     insertAtEnd(&head, 20);
     insertAtEnd(&head, 30);
     insertAtEnd(&head, 40);
+    insertAtEnd(&head, 90);
     show(head);
 }
